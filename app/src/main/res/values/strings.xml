@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hometask2</string>
+    <string name="enter_name_hint">Enter name</string>
+    <string name="make_photo_button">Make photo</string>
+</resources>
